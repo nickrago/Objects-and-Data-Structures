@@ -7,8 +7,6 @@ The concept of a Driver, something meant to test the functionality of the code v
 
 # Given Instructions
 
-Lab01 - Due tonight by 11:59 pm
-
 An introduction to terminal commands, basic java programming, and git commands.
 
 Welcome!
